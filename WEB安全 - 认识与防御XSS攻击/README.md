@@ -240,8 +240,7 @@ XSS攻击有两个要点，一个是“输入点”，针对输入点我们可�
 
 > https://www.owasp.org/index.php/DOM_based_XSS_Prevention_Cheat_Sheet （查看更多XSS攻击案例）
 
-
   [1]: ./assets/xss-step.png
-  [2]: http://static.zybuluo.com/shenguotao/ssylyq0t8sliq5ttd8bzobz8/jd.png
-  [3]: http://static.zybuluo.com/shenguotao/n9cvc6lal3av42pxo606x2nz/%E7%9F%A5%E4%B9%8E2.png
-  [4]: http://static.zybuluo.com/shenguotao/yx8lf1nx0a7css1eobpygcvf/%E7%9F%A5%E4%B9%8E1.png
+  [2]: ./assets/jd.png
+  [3]: ./assets/zh1.png
+  [4]: ./assets/zh2.png
